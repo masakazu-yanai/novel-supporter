@@ -1,4 +1,6 @@
-# 小説推敲補助ソフト「Novel Supporter」
+# Novel Supporter
+
+「Novel Supporter」は、小説推敲補助ソフトです。
 
 ## 公式サイト
 
