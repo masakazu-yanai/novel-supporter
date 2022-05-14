@@ -58,7 +58,7 @@ https://crocro.com/pc/soft/novel_supporter/
 
 ### Mac環境
 
-1. [Mac実行用のElectron](https://github.com/electron/electron/releases/download/v7.1.7/electron-v7.1.7-darwin-x64.zip)（60MB）をDLして解凍する（[配布ページ](https://github.com/electron/electron/releases/tag/v7.1.7)）。
+1. [Mac実行用のElectron](https://github.com/electron/electron/releases/download/v16.0.5/electron-v16.0.5-darwin-x64.zip)（60MB）をDLして解凍する（[配布ページ](https://github.com/electron/electron/releases/tag/v16.0.5)）。
 2. Zipファイル「novel\_supporter\_X.X.X_asar.zip」をダウンロードして解凍する。
 3. 以下は、コマンドライン環境（ターミナル）で操作する。
 4. 解凍した『Novel Supporter』の「asar」ディレクトリを、カレントディレクトリにする。
